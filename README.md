@@ -3,9 +3,9 @@
 Segue abaixo descrição do projeto: *
 
 >1. *git clone https://github.com/ivanslemos/teste-python.git*
-2 - Pelo prompt de comando, acessar diretório do projeto*
-3 - executar o comando >python app.py
-3 - Copiar a URL gerada pelo compilador e acessar pelo navegador
+*2 - Pelo prompt de comando, acessar diretório do projeto*
+*3 - executar o comando >python app.py
+*4 - Copiar a URL gerada pelo compilador e acessar pelo navegador
 
 
 ***Observações***
