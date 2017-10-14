@@ -1,0 +1,61 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.box-formulario {
+    width: 900px;
+    border: #ccc solid 1px;
+    height: 350px;
+}
+.header-form {
+    width: 100%;
+    background: #40bffb;
+    color:#FFF;
+}
+    .header-form h2 {
+ 
+        width: 267px;
+        height: 76px;
+        margin: 0 auto;
+        text-indent: 90px;
+        background: url(/static/images/icon-hotel.png) no-repeat;
+        text-transform: uppercase;
+        padding-top: 16px;
+        font-size: 44px;
+        font-weight: normal;
+    }
+
+
+.formulario {
+    display:block;
+
+}
+    .formulario h3 {
+        color: #40bffb;
+        text-align:center;
+        padding:20px;
+    }
+
+
+
+
+
+
+.btn-primary {
+    margin-top: 20px;
+    
+}
+.loader {
+    margin-top:20px;
+}
+
+.resultado-busca, .loader {
+    width: 900px;
+}
