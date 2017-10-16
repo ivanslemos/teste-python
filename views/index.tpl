@@ -75,7 +75,7 @@
 					<tr>
 					  <th>Hotel</th>
 					  <th>Cidade</th>
-					  <th>Last Name</th>
+					  <th>Data</th>
 					  <th>Vaga</th>
 					  <th>Total de noites disponiveis</th>
 					</tr>
